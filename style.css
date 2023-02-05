@@ -6,6 +6,10 @@
     text-decoration: none;
 }
 
+body {
+    text-align: center;
+    border: 3px solid #F00063;
+}
 
 header {
     text-align: center;
@@ -16,7 +20,8 @@ header {
     font-size: 10%;
 }
 
-body {
-    text-align: center;
-    border: 3px solid #F00063;
+.parara{ 
+    margin: 10% 9% 0%;
+    padding: auto;
 }
+
